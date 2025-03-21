@@ -8,10 +8,14 @@ Please enter a value in feet: 12
 12 * 12 is 144
 12 feet is equivalent to 144 inches
 . . .
+```
+```py
 Please enter a value in feet: 2
 2 * 12 is 24
 2 feet is equivalent to 24 inches
 . . .
+```
+```py
 Please enter a value in feet: 99
 99 * 12 is 1188
 99 feet is equivalent to 1188 inches
