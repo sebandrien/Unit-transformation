@@ -2,7 +2,9 @@
 
 An interactive program that repeatedly prompts the user to input a value in feet and converts it into inches. 
 
-The while True: loop ensures the program runs indefinitely, continually asking for input until manually stopped. Inside the loop, the program attempts to read the user's input, convert it to an integer, and calculate the equivalent length in inches by multiplying the value by 12. It then prints the calculation and the conversion result. If the user enters an invalid value (non-integer), the except ValueError block catches the error and displays a message asking for an integer input. This provides a robust and user-friendly way to handle invalid inputs without crashing the program.
+The while True: loop ensures the program runs indefinitely, continually asking for input until manually stopped. 
+
+Inside the loop, the program attempts to read the user's input, convert it to an integer, and calculate the equivalent length in inches by multiplying the value by 12. It then prints the calculation and the conversion result. If the user enters an invalid value (non-integer), the except ValueError block catches the error and displays a message asking for an integer input. This provides an easy and user-friendly way to handle invalid inputs without crashing the program.
 
 Output:
 ```py
