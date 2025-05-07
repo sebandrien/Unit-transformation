@@ -1,4 +1,4 @@
-# PY Unit Conversion
+# Python Unit Conversion
 
 An interactive program that repeatedly prompts the user to input a value in feet and converts it into inches. 
 
